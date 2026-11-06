@@ -19,7 +19,18 @@ Slash commands (like `/cinematic`) are community-made prompt shortcuts for AI to
 
 *Los comandos slash (como `/cinematic`) son atajos de prompt creados por la comunidad para herramientas de IA: el slash no activa nada por sí solo — el trabajo lo hacen las palabras. Slashpedia los reúne en un solo lugar, explica cada uno en palabras sencillas y muestra su prompt **solo donde la licencia de la fuente lo permite**. Cada entrada se abre como un desplegable: cerrada muestra el nombre y una descripción breve; abierta muestra el prompt (cuando está permitido), un ejemplo y su fuente.*
 
-**Contents:** [What is this?](#what-is-this) · [How entries work](#how-entries-work) · [Content policy](#content-policy) · [The app](#the-app) · [Sources and licences](#sources-and-licences) · [Credits](#credits) · [Legal](#legal) · [License](#license)
+**Contents:** [What is this?](#what-is-this) · [The encyclopedia](#the-encyclopedia) · [How entries work](#how-entries-work) · [Content policy](#content-policy) · [The app](#the-app) · [Sources and licences](#sources-and-licences) · [Credits](#credits) · [Legal](#legal) · [License](#license)
+
+## The encyclopedia
+
+- **[Image](IMAGE.md)** — 322 commands, each with its prompt under an open licence.
+- **Video** — coming next. / *En construcción.*
+- **Text** — coming next. / *En construcción.*
+- **Work** — coming next. / *En construcción.*
+
+All entries also live in one machine-readable brain — [commands.json](commands.json) — which the app and the printable PDF will read.
+
+*La enciclopedia: **[Imagen](IMAGE.md)** — 322 comandos, cada uno con su prompt bajo licencia abierta. **Video**, **Texto** y **Trabajo** — en construcción. Todas las entradas viven también en un cerebro legible por máquinas — [commands.json](commands.json) — que leerán la aplicación y el PDF imprimible.*
 
 ## How entries work
 
